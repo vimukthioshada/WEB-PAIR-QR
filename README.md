@@ -8,7 +8,7 @@
 
 **⭐ THE REPO IF YOU ARE GOING TO COPY OR FORK**
 
-`Note: Its Developed By A Student Of Programming Languages So If You Finds Any Errors , Please Create A Pull Request With Complete Details 💝`
+`Note: Its Developed By A Student Of Programming Languages So If You Finds Any Errors , Please Submit A Pull Request With Complete Details 💝`
 
 
 | [![Qasim Ali](https://github.com/GlobalTechInfo.png?size=100)](https://github.com/GlobalTechInfo) |
