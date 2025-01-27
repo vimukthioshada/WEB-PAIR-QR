@@ -10,6 +10,12 @@
 
 `Note: Its Developed By A Student Of Programming Languages So If You Finds Any Errors , Please Submit A Pull Request With Complete Details 💝`
 
+## OTHER PROJECTS:
+
+- [WHATSAPP BOT](https://github.com/GlobalTechInfo/MEGA-AI)
+- [TELEGRAM BOT](https://github.com/GlobalTechInfo/TELEGRAM-AI#readme)
+- 
+
 
 | [![Qasim Ali](https://github.com/GlobalTechInfo.png?size=100)](https://github.com/GlobalTechInfo) |
 | --- |
