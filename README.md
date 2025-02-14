@@ -1,9 +1,9 @@
 # Session Id Generator For WhatsApp Bots Using Mega
 
-## It Will Uploads Your Creds To Mega And Will Sends You Id Of That File
+**It Will Uploads Your Creds To Mega And Will Sends You Id Of That File.**
 
 
-## How Session Id Will Works?
+**How Session Id Will Works?**
 <details>
   <summary>Click Here To View?</summary>
   <p>
@@ -103,15 +103,15 @@ main()
 </details>
 
 
-**CRAFTED USING TEMPLATES OF SUHAILTECHINFO ( QR )  AND PRABATH ( PAIR )**
+CRAFTED USING TEMPLATES OF SUHAILTECHINFO ( QR )  AND PRABATH ( PAIR )
 
-**BOTH PAIR CODE AND QR CODE WORKING**
+BOTH PAIR CODE AND QR CODE WORKING
 
-**YOU CAN DEPLOY IT ON ANY CLOUD PLATFORM e.g `HEROKU` `RENDER` `KOYEB` etc.**
+YOU CAN DEPLOY IT ON ANY CLOUD PLATFORM e.g `HEROKU` `RENDER` `KOYEB` etc.
 
-**⭐ THE REPO IF YOU ARE GOING TO COPY OR FORK**
+**⭐ THE REPO IF YOU ARE GOING TO COPY OR FORK
 
-`Note: Its Developed By A Student Of Programming Languages So If You Finds Any Errors , Please Submit A Pull Request With Complete Details 💝`
+Note: Make Sure Add Your Email And Password ( Required In mega.js ) Before Running/Deploying The API.
 
 ## OTHER PROJECTS:
 
