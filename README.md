@@ -109,7 +109,7 @@ BOTH PAIR CODE AND QR CODE WORKING
 
 YOU CAN DEPLOY IT ON ANY CLOUD PLATFORM e.g `HEROKU` `RENDER` `KOYEB` etc.
 
-**⭐ THE REPO IF YOU ARE GOING TO COPY OR FORK
+⭐ THE REPO IF YOU ARE GOING TO COPY OR FORK
 
 Note: Make Sure Add Your Email And Password ( Required In mega.js ) Before Running/Deploying The API.
 
